@@ -2,4 +2,4 @@
 This is my first git repository
 <br>
 
-author:sahas patil
+Author:sahas patil
